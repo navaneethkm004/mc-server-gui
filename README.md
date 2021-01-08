@@ -1,13 +1,11 @@
-# Minecraft Server Hosting 24/7
+# Minecraft Server Hosting with GUI
 
-![GitHub issues](https://img.shields.io/github/issues/navaneethkm004/mc-server-hosting-24x7?color=red)[![GitHub forks](https://img.shields.io/github/forks/navaneethkm004/mc-server-hosting-24x7?style=social, "Fork")](https://github.com/navaneethkm004/mc-server-hosting-24x7/fork) ![GitHub repo size](https://img.shields.io/github/repo-size/navaneethkm004/mc-server-hosting-24x7?label=Size) [![Downloads](https://img.shields.io/github/downloads/navaneethkm004/mc-server-hosting-24x7/total?maxAge=3600, "Download")](https://github.com/navaneethkm004/mc-server-hosting-24x7/releases) [![Issues](https://img.shields.io/github/issues/navaneethkm004/mc-server-hosting-24x7?maxAge=3600, "Issues")](https://github.com/navaneethkm004/mc-server-hosting-24x7/issues) [![GNU General Public License v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?maxAge=3600, "License")](https://github.com/navaneethkm004/mc-server-hosting-24x7/blob/master/LICENSE) [![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&message=%40NavaneethKM004&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=714816987336089600)<br>
-
-## PLEASE DOWNLOAD LATEST MINECRAFT SERVER.JAR FROM [HERE](https://www.minecraft.net/en-us/download/server)
+![GitHub issues](https://img.shields.io/github/issues/navaneethkm004/mc-server-gui?color=red)[![GitHub forks](https://img.shields.io/github/forks/navaneethkm004/mc-server-gui?style=social, "Fork")](https://github.com/navaneethkm004/mc-server-hosting-24x7/fork) ![GitHub repo size](https://img.shields.io/github/repo-size/navaneethkm004/mc-server-gui?label=Size) [![Downloads](https://img.shields.io/github/downloads/navaneethkm004/mc-server-gui/total?maxAge=3600, "Download")](https://github.com/navaneethkm004/mc-server-gui/releases) [![Issues](https://img.shields.io/github/issues/navaneethkm004/mc-server-gui?maxAge=3600, "Issues")](https://github.com/navaneethkm004/mc-server-gui/issues) [![GNU General Public License v3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?maxAge=3600, "License")](https://github.com/navaneethkm004/mc-server-gui/blob/master/LICENSE) [![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%714816987336089600&message=%40NavaneethKM004&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=714816987336089600)<br>
 
 ## What's this?
-This project is based on Minecraft Server version 1.16.4 jar file. No need to download it from [here](https://www.minecraft.net/en-us/download/server) if the present Minecraft Server version is 1.16.4.
+This project is based on Minecraft Server jar file. 
 
-[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/mc-server-hosting-24x7)](https://repl.it/github/navaneethkm004/mc-server-hosting-24x7)
+[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/mc-server-gui)](https://repl.it/github/navaneethkm004/mc-server-gui)
 
 ## Author
 
@@ -18,4 +16,4 @@ This project is based on Minecraft Server version 1.16.4 jar file. No need to do
 ## License
 
 This repo is under the GNU General Public License v3.0.<br>
-See [LICENSE](https://github.com/navaneethkm004/mc-server-hosting-24x7/blob/master/LICENSE) File.
+See [LICENSE](https://github.com/navaneethkm004/mc-server-gui/blob/master/LICENSE) File.
